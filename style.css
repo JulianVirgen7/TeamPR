@@ -1,12 +1,12 @@
 header {
-  background: rgb(247, 245, 245);
-  color: rgb(44, 243, 233);
+  background: rgb(37, 214, 245);
+  color: rgb(28, 247, 236);
   text-align: center;
   padding: 10px;
   text-shadow: 1px 1px 1px black;
 }
 nav {
-  background-color: dimgrey;
+  background-color: rgb(241, 246, 247);
 }
 nav ul {
   margin: 0;
